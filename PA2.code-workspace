@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"deque": "cpp",
+			"map": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"iosfwd": "cpp",
+			"__split_buffer": "cpp",
+			"list": "cpp"
+		}
+	}
+}
